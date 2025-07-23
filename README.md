@@ -82,7 +82,3 @@ Confusion Matrix:
 - July 2025
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
