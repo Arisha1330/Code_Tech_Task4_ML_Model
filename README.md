@@ -1,4 +1,4 @@
-# Code_Tech_Task4_ML_Model
+# CodeTech_Task4_ML_Model
 
 # 📧 SMS Spam Classifier - Machine Learning Project
 
