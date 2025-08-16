@@ -80,5 +80,3 @@ Confusion Matrix:
 - **Arisha Ansari**  
 - CodTech Internship – Task 4  
 - July 2025
-
----
